@@ -1,4 +1,4 @@
-# evolucao-de-aprendizagem-M04
+# evolucao-de-aprendizado-M04
 
 O que eu sei sobre:
   * Banco de dados: apenas o básico que foi passado até agora no curso, nada muito aprofundado.
